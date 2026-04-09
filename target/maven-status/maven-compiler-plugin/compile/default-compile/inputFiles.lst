@@ -1,0 +1,15 @@
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\Application.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\config\CorsConfig.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\AppointmentsController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\CallsController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\HealthController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\LabBookingsController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\OrdersController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\PaymentsController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\controller\PrescriptionsController.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\entity\AppointmentEntity.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\entity\OrderEntity.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\repository\AppointmentRepository.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\repository\OrderRepository.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\service\InMemoryDataService.java
+D:\ayush medicare\backend-spring\src\main\java\com\ayush\medicare\service\PaymentSessionService.java
